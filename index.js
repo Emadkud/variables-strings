@@ -37,5 +37,5 @@ console.log(letters)*/
 const template =`I'm ${age} years old`
 console.log(template)*/
 
-const changed = "Bonjour"
-console.log(changed.replaceAll("o" ,"a"))
+/*const changed = "Bonjour"
+console.log(changed.replaceAll("o" ,"a")) */
